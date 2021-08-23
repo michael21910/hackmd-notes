@@ -1,8 +1,8 @@
-# w3c - Notes Learning Bootstrap
+# w3school - Notes Learning Bootstrap
 
 [Reference from w3schools](https://www.w3schools.com/bootstrap4/default.asp)
 
-筆記是我從w3schools邊學邊做筆記的。  
+筆記是我從w3school邊學邊做筆記的。  
 廢話不多說，讓我們開始吧！
   
 ## BS4 Containers
