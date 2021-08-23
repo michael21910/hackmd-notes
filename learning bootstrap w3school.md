@@ -6,8 +6,8 @@
 廢話不多說，讓我們開始吧！
   
 ## BS4 Containers
-* Container, Container-fulid
-    * 不同的地方在於fulid會水平滿版
+* Container, Container-fluid
+    * 不同的地方在於fluid會水平滿版
 * m(margin), p(padding）
     * t, b, l, r 分別代表上、下、左、右，不打表示全都要！
     * x代表左右、y代表上下
@@ -92,7 +92,7 @@
     </div>
 ```
 大大框框，好爽好爽。  
-加 <mark>**jumbotron-fulid**</mark> 會變成水平滿版，終了！
+加 <mark>**jumbotron-fluid**</mark> 會變成水平滿版，終了！
 
 ## BS4 Buttons
 按鈕來啦！！直接上實際語法！
