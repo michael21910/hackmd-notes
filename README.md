@@ -7,4 +7,4 @@ You are very welcome to take notes with me!
 Please use HackMD to see my notes, it's more better than watching it on github.  
   
 Links:  
-[Learning Bootstrap from w3school](https://hackmd.io/@michael21910/w3c-notes-learning-bootstrap)
+[Learning Bootstrap from w3school](https://hackmd.io/xlLT4fZnQGqQq7DwwdzR7Q)
